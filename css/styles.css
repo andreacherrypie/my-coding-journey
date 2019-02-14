@@ -1,0 +1,22 @@
+ h1 {color: pink;
+  font-size: 100px;
+font-family: fantasy;
+font-style: underline;
+}
+h2 {color: purple;
+font-family: cursive;
+font-size: 50px;}
+.button {width: 100px;
+background-color: pink;
+color:black;
+border: 5px solid black;
+font-family: fantasy;
+font-style: oblique;
+}
+h3 {font-family:monospace;}
+li{color: purple;
+font-family: fantasy;
+}
+h4 {font-family: monospace;}
+#The-disney-castle-on-the-background
+{color: blue;}
